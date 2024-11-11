@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @smartdeveloper1030
-- 👀 I’m interested in C/C++, Python, JavaScript, React, NodeJS, MongoDB, MERN, AI|ML.
+- 👋 Hi, I’m @smartdeveloper1030, My major skills is to develop the Web & Mobile app.
+- 👀 I’m interested in C/C++, Python, JavaScript, TypeScript, React, React Native, MERN, NodeJS, MongoDB, AWS, Supabase and AI Apps & Integration
 - 🌱 I’m currently learning Electric&Mechanical Engineering.
 - 💞️ I’m looking to collaborate on I’m looking to collaborate on exciting tech projects and open-source initiatives.
 - 📫 How to find me.  blemesh.master1030@gmail.com
