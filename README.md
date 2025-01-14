@@ -1,4 +1,4 @@
-# Sr. Full Stack Engineer | React | Next.js | Node.js | Python | OpenAI API
+# Sr. Full Stack Engineer | React | Next.js | Node.js | Python | OpenAI
 
 👋 Hi, I’m @smartdeveloper1030, My major skills is to develop the Web & Mobile app.
 If you're looking for a reliable frontend developer to bring your vision to life or need a specialist who can handle React.js and Next.js projects with ease — you are looking at the right person. 
@@ -27,15 +27,11 @@ My skillset includes:
 ✅ 𝐍𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Android SDK, iOS SDK
 ✅ 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬: Google Play Console, Apple App Store
 
-
-- 👀 I’m interested in C/C++, Python, JavaScript, TypeScript, React, React Native, MERN, NodeJS, MongoDB, AWS, Supabase and AI Apps & Integration
-- 🌱 I’m currently learning Electric&Mechanical Engineering.
+🎯 Other experience
+- 👀 I’m interested in C/C++, Electric, Mechanical Engineering.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
 - 📫 How to find me.  blemesh.master1030@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I made the BLE Mesh network in 2022 by using the nRF52840.
 
-<!---
-smartdeveloper1030/smartdeveloper1030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
