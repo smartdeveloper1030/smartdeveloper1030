@@ -1,4 +1,4 @@
-#Senior Full Stack Engineer | React | Next.js | Node.js | Python | OpenAI API
+# Senior Full Stack Engineer | React | Next.js | Node.js | Python | OpenAI API
 
 👋 Hi, I’m @smartdeveloper1030, My major skills is to develop the Web & Mobile app.
 If you're looking for a reliable frontend developer to bring your vision to life or need a specialist who can handle React.js and Next.js projects with ease — you are looking at the right person. 
