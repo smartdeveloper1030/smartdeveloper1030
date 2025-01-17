@@ -4,7 +4,7 @@
 If you're looking for a reliable frontend developer to bring your vision to life or need a specialist who can handle React.js and Next.js projects with ease — you are looking at the right person. 
 I am an experienced Frontend Developer with over 8 years of expertise in React and Next.js. I specialize in creating dynamic, scalable, and user-friendly web and mobile solutions tailored to your needs. 
 
-My skillset includes:
+### My skillset includes:
 - ✨FRONTEND:
 - ✅ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: TypeScript, JavaScript
 - ✅ 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: React.js, Next.js, Vue.js, Angular.js
