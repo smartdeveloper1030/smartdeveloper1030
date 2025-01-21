@@ -37,8 +37,24 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
 ### Languages & Tools
 
 <table align="center">
-  <tr>
+  <tr>    
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+      <br>React
+    </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="nuxt" />
+      <br>Nuxt.js
+    </td>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
       <br>AI
     </td>
@@ -58,22 +74,6 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
       <br>Django
     </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="nuxt" />
-      <br>Nuxt.js
-    </td>    
   </tr>
   <tr>
     <td align="center"  width="96">
