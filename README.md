@@ -54,6 +54,10 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
             <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
         <br>FastAPI
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+      <br>Django
+    </td>
     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
       <br>React
@@ -69,11 +73,7 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="nuxt" />
       <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
-      <br>Angular
-    </td>
+    </td>    
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -89,15 +89,15 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
       <br>NestJS
     </td>
     <td align="center" width="96">
-          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
-      <br>Django
+          <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+      <br>Angular
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-          <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> </a> 
+          <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -119,8 +119,8 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
       <br>Svelte
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+      <br>Qt
     </td>
     <td align="center" width="96">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -147,48 +147,10 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="dynamodb" />
-      <br>DynamoDB
-    </td>
-  </tr>  
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="github" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="bitbucket" />
-      <br>Bitbucket
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="bash" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="cloudflare" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-          <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.gif" alt="figma" width="40" height="40"/> </a> 
-      <br>Figma
-    </td>
-  </tr>
+  </tr>  
   <tr>
     <td align="center"  width="96">
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
@@ -211,7 +173,7 @@ I am an experienced Frontend Developer with over 8 years of expertise in React a
       <br>Supabase
     </td>
     <td align="center" width="96">
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
       <br>Docker
     </td>
     <td align="center" width="96">
