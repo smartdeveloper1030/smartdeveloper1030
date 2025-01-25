@@ -8,7 +8,7 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 🔧 My skillset includes:
 - ✨Web:
 - ✅ **Language**: TypeScript, JavaScript, HTML, CSS
-- ✅ **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS
+- ✅ **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
 - ✅ **Backend Framework**: Node.js, Express.js, Nest.js, Django
 - ✅ **Database**: MySQL, PostgreSQL, Supabase, MongoDB, Firebase
 - ✅ **API Development**: REST, GraphQL, gRPC, WebSockets
