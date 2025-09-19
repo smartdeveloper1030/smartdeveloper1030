@@ -1,4 +1,4 @@
-# Sr. Full Stack Engineer | React/Next.js | Python/Node.JS | AI & Voice Agent | N8N
+# Sr. Full-Stack | React/Next.js | Python/Node.JS | AI & Voice Agent | N8N
 
 👋 Hi.
 I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend development. 
