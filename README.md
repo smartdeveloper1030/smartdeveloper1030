@@ -23,7 +23,7 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
  🎯 Other experience
 - 👀 I’m interested in C/C++, IoT Firmware such as nRF52 series.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
-- 📫 How to find me.  developer.defi07820.com
+- 📫 How to find me.  blemesh.master1030@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I made the BLE Mesh network in 2022 by using the nRF52840.
 
