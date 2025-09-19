@@ -1,4 +1,4 @@
-# Sr. Full Stack Engineer | React | Next.js | Node.js | Python | OpenAI
+# Sr. Full Stack Engineer | React/Next.js | Python/Node.JS | AI & Voice Agent | N8N
 
 👋 Hi.
 I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend development. 
@@ -7,9 +7,9 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 
 🔧 My skillset includes:
 - ✨Web:
-- ✅ **Language**: TypeScript, JavaScript, HTML, CSS
+- ✅ **Language**: JavaScript, TypeScript, Python
 - ✅ **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
-- ✅ **Backend Framework**: Node.js, Express.js, Nest.js, Django
+- ✅ **Backend Framework**: Node.js, Express.js, FastAPI, Django
 - ✅ **Database**: MySQL, PostgreSQL, Supabase, MongoDB, Firebase
 - ✅ **API Development**: REST, GraphQL, gRPC, WebSockets
 - ✅ **Deployment Tools**: Vercel, Netlify, Heroku, AWS Amplify, Firebase Hosting
@@ -21,9 +21,9 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 - ✅ **Deployment Tools**: Google Play Console, Apple App Store
  
  🎯 Other experience
-- 👀 I’m interested in C/C++, Electric, Mechanical Engineering.
+- 👀 I’m interested in C/C++, IoT Firmware such as nRF52 series.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
-- 📫 How to find me.  blemesh.master1030@gmail.com
+- 📫 How to find me.  developer.defi07820.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I made the BLE Mesh network in 2022 by using the nRF52840.
 
