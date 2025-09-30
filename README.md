@@ -19,7 +19,13 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 - ✅ **Frameworks**: Flutter, React Native, Ionic
 - ✅ **Native Development**: Android SDK, iOS SDK
 - ✅ **Deployment Tools**: Google Play Console, Apple App Store
- 
+- ✨AI Voice Agent Development
+Build intelligent, natural-sounding voice agents powered by:
+  ✅ **ElevenLabs** for realistic TTS
+  ✅ **Vapi/Retell** AI for phone-ready agents
+  ✅ **ChatGPT** API for intelligent dialogues
+  ✅ **Use cases**: customer service, inbound/outbound sales, appointment scheduling, lead qualification, and more.
+
  🎯 Other experience
 - 👀 I’m interested in C/C++, IoT Firmware such as nRF52 series.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
