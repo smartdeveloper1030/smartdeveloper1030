@@ -56,12 +56,12 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
         <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
