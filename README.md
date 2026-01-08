@@ -24,7 +24,27 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 - ✅ **Vapi/Retell** AI for phone-ready agents
 - ✅ **ChatGPT** API for intelligent dialogues
 - ✅ **Use cases**: customer service, inbound/outbound sales, appointment scheduling, lead qualification, and more.
-
+- ✨ Computer Vision & AI
+- ✅ Languages & Frameworks: Python, OpenCV, PyTorch, TensorFlow, ONNX
+- ✅ Core Skills:
+- Image classification & object detection
+- Face detection & recognition
+- OCR & document processing
+- Image segmentation & tracking
+- Pose estimation & motion analysis
+- ✅ Models & Techniques:
+- CNNs, YOLO (v5–v8), SSD, Faster R-CNN
+- Vision Transformers (ViT)
+- Transfer learning & model fine-tuning
+- ✅ Real-world Applications:
+- Surveillance & security systems
+- Smart cameras & IoT vision devices
+- E-commerce image search & tagging
+- Medical & industrial image analysis
+- ✅ Deployment:
+- Edge AI (Jetson, Raspberry Pi)
+- Cloud inference (AWS, GCP)
+- REST / WebSocket-based CV APIs
  🎯 Other experience
 - 👀 I’m interested in C/C++, IoT Firmware such as nRF52 series.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
